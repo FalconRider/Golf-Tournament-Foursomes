@@ -7,9 +7,11 @@ It's time again for the annual golf tournament at a 12 person start up.
 You want evenly skilled teams so that everyone has a chance at the team prizes.
 
 After all it's supposed to be a company wide  team building day. 
-So you make inquiries about golf skills and ask "What percentage of the time do you make par?"  No one lies. 
+So you make inquiries about golf skills and ask
+"What percentage of the time do you make par?"  No one lies. 
 
 Each player gets a code number 0 to 11 (12 players) and you make a new json in the ame style. 
+
 You set the thingie in the json to 3 to get 3 teams and add the data.
 
 Call it golfers.json
