@@ -1,0 +1,23 @@
+GOLF TOURNAMENT FOURSOMES
+A Satelitte Constellation Model Derivation
+
+It time again for the annual golf tournament at a 12 person start up. You want evenly skilled teams so that everone has a chance at the team prizes. After all it's supossed to be a company wide  team building day.  So you make inquiries about golf skills and ask "What percentage of the time do you make par?"  Each player gets a code number
+0 to 11 (12 players) and you set the thingie in the json to 3 to get 3 teams and add the data.
+
+In the Leap IDE you run a number of times to get posible foursomes that are even skilled .
+Note that there's a minimum skill threshhold in the formula left at .4 but  could be changed in the runner program - left as the original "satellite" version here.
+
+I wrote a py generator for the json pairs and its included. 
+This way you could try 1200 golfers although the documentations says the 39 pairs example would be a noticable slowdown.
+
+This is an experiment.
+Problem: pairs generator last comma. deleted manually.
+
+
+CONTRACT TRACING TEAMS
+YARD HOCKEY TEAMS
+You got 10  guys wanna play a little puck whacking in a parking lot (Canada) or Hoops in the States.  Gonna be 5 a side either way. You wanna split the teams evenly.
+Each player takes 10 tryout shots and you record their percentage. 100% gets marked down .01 to 99 and 0  marked up to .01( So that all are (<1 and > 0)
+
+UNIVERCITY TRIP
+You wanna mixed Groups  of year 1, 2, 3 and Seniors  assign scores of .99 to seniors, .66 to third year, .33 to sophmores and .01 to first year students. 
