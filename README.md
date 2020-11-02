@@ -25,11 +25,17 @@ Run a number of times to get possible foursomes that are even skilled.
 Note that there's a minimum skill threshold in the formula left at .4 but  could be changed in the runner program.
 I left labels as in the original "satellite" version here.
 
-I wrote a py generator for the json pairs and its included. 
-This way you could try 1200 golfers although the documentations says the 39 pairs example
+I wrote a py generator for the json pairs and it's included. 
+This way you could try 1,200 golfers although the documentations says the 39 pairs example
 would be a noticeable slowdown. 
 
 This is an experiment. Notes and Obsevations below:
 
-Problem: pairs generator extra last comma. Deleted manually.
-Original small.json inclusedjust so could see I tried with my pairs.
+Problem: pairs generator extra last comma.
+Deleted manually.
+Typos satellite.py and golfer.json fixed and it ran.
+Pairs generator needs "s I used 's .Adjusted manually to fix.
+
+Possible problem - got exact same answer 4 tines. will look at.
+
+Original small.json inclused just so could see I tried with my pairs.
